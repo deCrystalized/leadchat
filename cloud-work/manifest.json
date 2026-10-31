@@ -1,75 +1,75 @@
 {
   "formatVersion": 1,
   "frontend": {
-    "sha256": "4e1edd22f238018266a35f4a71c18b8d1a83c6fe05d2de3c84b9acbada298480",
-    "files": 1128
+    "sha256": "c7d88f0d7af3804224bbb947aca2a80c8faabe1945036779cc10728c8a58cae6",
+    "files": 1131
   },
   "native": {
     "files": 95,
     "sha256": "f83f7db7f634dcc63a88e9a8154e3414afb2681d81125ed4518b381d16f3ffc4"
   },
-  "archiveSha256": "ed326543da369e953889622fdd6460741f8936edba7755a3310a1a923db01caf",
-  "archiveBytes": 16600408,
+  "archiveSha256": "4612d7fdde9c0874a425d4e0f928297455321380c6c3c0c23091013bc369ff75",
+  "archiveBytes": 16661849,
   "parts": [
     {
       "path": "source.zip.part001",
       "bytes": 1500000,
-      "sha256": "a19f4c2ab5bd0019c66ab50fe86747f656cdfb5b79a948ac5e93c799d76a9f3e"
+      "sha256": "f02988b097846bda32d87721b5f20ea793c7f516f00785c540ec2fe39683e83b"
     },
     {
       "path": "source.zip.part002",
       "bytes": 1500000,
-      "sha256": "4d6d407877c8f1fcfa384f74fa3d533f6b50860f44519433179b043a407f5fc8"
+      "sha256": "0a7b0f734083ce52c288970520f01087b1859c2330fc4aa84cc56e2dd018cbe4"
     },
     {
       "path": "source.zip.part003",
       "bytes": 1500000,
-      "sha256": "80d7866b9fb059deef7b7f49e5db658cfaa15c34777888762f0d4154e71f16c3"
+      "sha256": "20b3745c6b0aeb821bf27c593fce380c20859369dfcf726bc0a17ec524753dc1"
     },
     {
       "path": "source.zip.part004",
       "bytes": 1500000,
-      "sha256": "c7ebfb2fff50e7a550a14ec327e21cac5ecabf3d3971f95e1c38bf6667188e9a"
+      "sha256": "bdbb09b3953ee1b8850da4ce591e5bf6d127a7990b0219bba743ebb874ec71b1"
     },
     {
       "path": "source.zip.part005",
       "bytes": 1500000,
-      "sha256": "cd790188792dfa4c72861cf90dae0b6a11801a1a2c2fc122ccec623e267f16d5"
+      "sha256": "b1d65eb56cf5a2a90638ebd0226345d516f8ed0967fc5e44ea5d401c7fb4cad7"
     },
     {
       "path": "source.zip.part006",
       "bytes": 1500000,
-      "sha256": "629a679f2ffdcec7374695d3ca91669b9e9aa531201c784f91a837a50219e6d5"
+      "sha256": "bb48ab561d3632dee30a1d058d33f0f1ad6a661f90e635b73464aee486fbe870"
     },
     {
       "path": "source.zip.part007",
       "bytes": 1500000,
-      "sha256": "489aad370a50d724f5fb1c2cfa92de899754bcb1aa1d19d5a838f19d1a8937f9"
+      "sha256": "3c7030722bfd99ec8cc96597e79bcff1c649b5946dc418c4947f14141186352b"
     },
     {
       "path": "source.zip.part008",
       "bytes": 1500000,
-      "sha256": "d3c351043a217d8e3b2d6608a5997b6b6e1839ca012a5fea8a0eb2310e65491a"
+      "sha256": "f284871d6795a416e813e859f915dcb0e3f7bf266f2dba59c5666f82f55d80cd"
     },
     {
       "path": "source.zip.part009",
       "bytes": 1500000,
-      "sha256": "93a30650711ba7bf0e0d9a26db395d9f2e076fc3f383ef3056cc6e4052bda98d"
+      "sha256": "04fdd701e300feeb9dd60784a19122fea6f2f4098c7e003541a1dc193adaf325"
     },
     {
       "path": "source.zip.part010",
       "bytes": 1500000,
-      "sha256": "10f63a6e7c047a4b0e6400a91e5f51e81c8c9280b413b245edfc26281dd8b0e4"
+      "sha256": "646f0c2a8201f786c63e7ce63592cd1386a4ddc65930dbf437d5022dbc88886a"
     },
     {
       "path": "source.zip.part011",
       "bytes": 1500000,
-      "sha256": "ba16b06c46b0ea86a6b9ecf40392efcdf4394f8e5ddf6c02f8c88d5d7b1a1ca6"
+      "sha256": "c645db9d33a92e3853423cd8b39a54117594bafce7d659595bbb2610b63f1b94"
     },
     {
       "path": "source.zip.part012",
-      "bytes": 100408,
-      "sha256": "4a129d5b595d39d30c844e00b299965f2e7436ec695a44ca1fba3660679a7e7e"
+      "bytes": 161849,
+      "sha256": "fec57d985f61da8bea9f6f93084e22c8cf1c7195c8cad924dd65f47add730745"
     }
   ],
   "files": [
@@ -135,8 +135,8 @@
     },
     {
       "path": "docs/line/PLANS.md",
-      "bytes": 231505,
-      "sha256": "fadadbf68bacbbbad0aa51da3a1aa859338b525f1845b34daf5c377df027bfe9",
+      "bytes": 232462,
+      "sha256": "4dda43c65d724015fad6cdb253e17c6176d3583e417c22e16ce802044d9ef68f",
       "executable": false
     },
     {
@@ -147,8 +147,8 @@
     },
     {
       "path": "docs/line/REGRESSION.md",
-      "bytes": 49092,
-      "sha256": "844a43893f7637c4699e98b8a93b3ddaa89991e51d69df6a2ab001e60506c3ac",
+      "bytes": 50703,
+      "sha256": "a63da8e45a599b6abb5b952206d27beb6af41c9db0a7859ed640c648ea510040",
       "executable": false
     },
     {
@@ -281,6 +281,78 @@
       "path": "docs/mobile-thread-profile/verify-final.py",
       "bytes": 9532,
       "sha256": "5a08bd1661846d2e859dcdde17484ca59dfac845370fcbe66f691ea2edc21cc1",
+      "executable": false
+    },
+    {
+      "path": "docs/navigation-intent/PLANS.md",
+      "bytes": 2594,
+      "sha256": "144af87d6fa50942b3b893b091fe6e9090a696eac9b70f3210aca7b693c0d332",
+      "executable": false
+    },
+    {
+      "path": "docs/navigation-intent/WORKING_STATE.md",
+      "bytes": 3848,
+      "sha256": "60e410025cd7966ea05c8ea9e443186bf8277d93e7ad33c8c13ed0d7555a6dfc",
+      "executable": false
+    },
+    {
+      "path": "docs/navigation-intent/changed-files.json",
+      "bytes": 2397,
+      "sha256": "82bd985c7d85383914d18d91e6c9318d06d09c20355f9aece65da68ced7a2f8f",
+      "executable": false
+    },
+    {
+      "path": "docs/navigation-intent/focused-corrected.json",
+      "bytes": 40947,
+      "sha256": "4720e817fc7010f01991c9691452313acd8060f61b73fc40c71248fe1fc1bf15",
+      "executable": false
+    },
+    {
+      "path": "docs/navigation-intent/frontend-review-ledger-current.json",
+      "bytes": 119394,
+      "sha256": "92a974f4031ee7a0abe73f31e90744d420fbd5a0672947c901b77063bf5802c0",
+      "executable": false
+    },
+    {
+      "path": "docs/navigation-intent/handoff-original-red.json",
+      "bytes": 71205,
+      "sha256": "be60b7e88af43656268ac5751795b7ac3ef68d344e1168e77a3901b23ed8c56f",
+      "executable": false
+    },
+    {
+      "path": "docs/navigation-intent/handoff-source.json",
+      "bytes": 100,
+      "sha256": "87d280ad365be06471e1e4743a3e7b412226002d50f1f32e8e2b0d786062d351",
+      "executable": false
+    },
+    {
+      "path": "docs/navigation-intent/handoff.diff",
+      "bytes": 26471,
+      "sha256": "5f448d29c998e7fabab598732ff32f099586fd2891b6df99c07bee9bfac6eab3",
+      "executable": false
+    },
+    {
+      "path": "docs/navigation-intent/lint-handoff.log",
+      "bytes": 1255,
+      "sha256": "bd02cad97f7657c5a4b90b8bf6eceb74a21deb06a97937fd6fe0d5ae189d0a49",
+      "executable": false
+    },
+    {
+      "path": "docs/navigation-intent/manual-coverage.json",
+      "bytes": 109,
+      "sha256": "4bbb0b2a1dfa60b748a9fe5d35392d218cb77b4254dcc71321150e1399affffd",
+      "executable": false
+    },
+    {
+      "path": "docs/navigation-intent/manual-inputs.json",
+      "bytes": 2371,
+      "sha256": "961d61ac0deb8f6831f9e371d609355b3a45558c4a84213c16a28f78ae88c3ea",
+      "executable": false
+    },
+    {
+      "path": "docs/navigation-intent/typecheck-first.log",
+      "bytes": 53,
+      "sha256": "99c930f0b8b542d05e5cd1ca14941840ab32c574ea85f24bb04ba18a80fc1a68",
       "executable": false
     },
     {
@@ -1137,8 +1209,8 @@
     },
     {
       "path": "frontend/src/features/chats/ChatsPage.tsx",
-      "bytes": 10613,
-      "sha256": "e168af795f68637f22b2871f1eb7daec12f34ac7b52fed841dfd30ca2425667a",
+      "bytes": 10719,
+      "sha256": "8a8b3529bec715163ba9a7959208c36364fe3f072c50d519a78d2d2fcabf9bb4",
       "executable": false
     },
     {
@@ -1773,8 +1845,8 @@
     },
     {
       "path": "frontend/src/features/hotkeys/dispatch.ts",
-      "bytes": 27820,
-      "sha256": "4721243794ccadd5a6d8e6c9ff0a37a4b20d5f37aac52878bf8c12badb0d7092",
+      "bytes": 29153,
+      "sha256": "76f184ca3991a53819752de6df592b6ba35ae3c729cec163a836759b0f69f8dd",
       "executable": false
     },
     {
@@ -1797,8 +1869,8 @@
     },
     {
       "path": "frontend/src/features/hotkeys/useChatHotkeys.ts",
-      "bytes": 22653,
-      "sha256": "fe37789052747038493b8155f599c9127492a9401d9ecb7f547bc041c7936c5a",
+      "bytes": 22800,
+      "sha256": "faacb1d786f389ff43911eb84a5bf92203bc023c3e23a52e3e177bc3ace6496a",
       "executable": false
     },
     {
@@ -4382,6 +4454,12 @@
       "executable": false
     },
     {
+      "path": "frontend/src/test/DeferredListNavigation.test.tsx",
+      "bytes": 8122,
+      "sha256": "933e17c38295b18104d250be0fc8767236e64a03a6edf0a7473c921f700c2e8a",
+      "executable": false
+    },
+    {
       "path": "frontend/src/test/DeleteChannel.test.tsx",
       "bytes": 7933,
       "sha256": "56c0e3181c514c2d54a8fe8f49972ecd0384c61a1717ae99210933a7d31d5b76",
@@ -4556,6 +4634,12 @@
       "executable": false
     },
     {
+      "path": "frontend/src/test/HotkeyRouterFixture.tsx",
+      "bytes": 296,
+      "sha256": "89fc698c31716d30bf15ee170b06769f68d415ebd482abb5e841eb1dd3d4c11e",
+      "executable": false
+    },
+    {
       "path": "frontend/src/test/HotkeysEditor.test.tsx",
       "bytes": 8868,
       "sha256": "5edee491289f065e314f8d9afbfc57ad135c226e5c88ae902f2ef562fe95fbc4",
@@ -4575,8 +4659,8 @@
     },
     {
       "path": "frontend/src/test/HotkeysUnderModal.test.tsx",
-      "bytes": 5181,
-      "sha256": "8f9998e750246b341656543b5cdd97c32fbf0b042779353a8421acd3b2cc6441",
+      "bytes": 5276,
+      "sha256": "761911bc2c60c2d40cfd32b35618f4f8f5075d7c81929279cbccd4a291357fcc",
       "executable": false
     },
     {
@@ -4707,8 +4791,8 @@
     },
     {
       "path": "frontend/src/test/KeyboardFixes.test.tsx",
-      "bytes": 4261,
-      "sha256": "0cc6cc7b94702f3b7d4de076000047dc88a330dca55d3f4547103f7c6305dba8",
+      "bytes": 4424,
+      "sha256": "4fcf74ff8f9c5197e0b4d25b6645e8314b27207024cbe99af5ac3bbdce0fc0fd",
       "executable": false
     },
     {
@@ -5175,8 +5259,8 @@
     },
     {
       "path": "frontend/src/test/PinnedDialog3008.test.tsx",
-      "bytes": 22783,
-      "sha256": "5aa8ed3a2cb4f401ab14300aed3629a7b37bad6b4cbc50c38971c60686519ac2",
+      "bytes": 22980,
+      "sha256": "faf5c45490b10f06dae6deec3aa1d00d57b07fb46fc5cef6ffd9379e29718d1b",
       "executable": false
     },
     {
@@ -5351,6 +5435,12 @@
       "path": "frontend/src/test/ReplyTo0209.test.tsx",
       "bytes": 6917,
       "sha256": "7fcd2baa0c10902941e086d0f71acab1ce25b422f818e7ba2d3986cc1ff40694",
+      "executable": false
+    },
+    {
+      "path": "frontend/src/test/ResponsiveWorkspaceContinuity.test.tsx",
+      "bytes": 6253,
+      "sha256": "924dab038cc8ce57b57885534a613cc509d17d57d0b957aab61994db35ea93e2",
       "executable": false
     },
     {
@@ -6387,8 +6477,8 @@
     },
     {
       "path": "frontend/src/test/hotkeysForeignDialog.test.tsx",
-      "bytes": 5298,
-      "sha256": "b1deb1539e0607a0410f8b8db7ef1b7fef71b740336e5223fcc8f631ff592e81",
+      "bytes": 5393,
+      "sha256": "d0f05bc7d3bccebcb9ff8e193e3a3baa774a0036f951c978a040a578ec3eb526",
       "executable": false
     },
     {
@@ -6897,8 +6987,8 @@
     },
     {
       "path": "frontend/src/test/unreadWalk2409.test.tsx",
-      "bytes": 2744,
-      "sha256": "e6d16256528e0ae8e14933e660ea79a9401d7bcbebe4d82940b9babfe1e4a417",
+      "bytes": 2839,
+      "sha256": "bf13ebe0bdc72a383ed79cc9df1bfe3e32fd7b2ea2b5f90f5700154cf4e2356d",
       "executable": false
     },
     {
@@ -19044,6 +19134,21 @@
   "referenceIncludesCurrentTrackedWorkingBytes": true,
   "cloudTaskStarted": false,
   "deploymentAllowed": false,
+  "latestValidation": {
+    "focusedPassed": 92,
+    "typecheckExit": 0,
+    "lintErrors": 0,
+    "lintPriorWarnings": 5,
+    "fullSuiteForThisFingerprint": "NOT RUN",
+    "fiveBuildsForThisFingerprint": "NOT RUN",
+    "finalBuiltBrowserForThisFingerprint": "NOT RUN",
+    "previousFullSuite": {
+      "sourceSha256": "4e1edd22f238018266a35f4a71c18b8d1a83c6fe05d2de3c84b9acbada298480",
+      "total": 4491,
+      "passed": 4395,
+      "failed": 96
+    }
+  },
   "scan": {
     "highConfidencePatternFindings": 0,
     "notComprehensiveSecurityAudit": true
